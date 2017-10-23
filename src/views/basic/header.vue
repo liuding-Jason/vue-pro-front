@@ -1,6 +1,6 @@
 <template>
 	<div class="t-header-container">
-		<h3>款多多运营系统</h3>
+		<h3>后台管理系统</h3>
 	</div>
 </template>
 <script >
